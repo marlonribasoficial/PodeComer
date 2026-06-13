@@ -60,10 +60,14 @@ Recomendações fundamentadas no **Guia Alimentar para a População Brasileira*
   <img src="tela1.png" width="240" />
   &nbsp;&nbsp;
   <img src="tela2.png" width="240" />
-  <br/><br/>
-  <img src="tela3.png" width="240" />
   &nbsp;&nbsp;
+  <img src="tela3.png" width="240" />
+  <br/><br/>
   <img src="tela4.png" width="240" />
+  &nbsp;&nbsp;
+  <img src="tela5.png" width="240" />
+  &nbsp;&nbsp;
+  <img src="tela6.png" width="240" />
 </div>
 
 ---
