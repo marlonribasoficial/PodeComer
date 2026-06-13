@@ -99,4 +99,4 @@ Recomendações fundamentadas no **Guia Alimentar para a População Brasileira*
  
 Quer saber mais sobre o app — Q&A e Política de Privacidade? Acesse o repositório completo:
 
-[![Mais Informações](https://img.shields.io/badge/📄%20Mais%20Informações-007AFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonribasoficial/Pode-Comer/blob/main/README.md)
+[![Mais Informações](https://img.shields.io/badge/%20Mais%20Informações-007AFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonribasoficial/Pode-Comer/blob/main/README.md)
